@@ -67,4 +67,4 @@ public:
 tips: 
      1. this q will ask give me all ways to get the no of coins for amount;
      2. take and not take at every possible point we get some combination return 1 
-     3. else return 0,
+     3. else return 0, 

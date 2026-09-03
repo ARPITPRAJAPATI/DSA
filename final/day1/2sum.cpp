@@ -7,6 +7,7 @@ public:
         int sum=0;
         for(int i=0;i<nums.size();i++){
             sum = target-nums[i];
+            //find the sum in map.
             if(mp.find(sum)!=mp.end()){
                 return {mp[sum],i};
             }

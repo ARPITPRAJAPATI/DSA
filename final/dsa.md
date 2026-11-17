@@ -36,8 +36,8 @@ The objective is not just to complete questions, but to:
 
 | Date | Question 1 | Question 2 | Completed |
 |---|---|---|---|
-| 16 Nov | Majority Element-I | Two Sum | [ ] |
-| 17 Nov | Find peak element | Longest Substring Without Repeating Characters | [ ] |
+| 16 Nov | Majority Element-I | Two Sum | [done] |
+| 17 Nov | Find peak element | Longest Substring Without Repeating Characters | [done] |
 | 18 Nov | Find Middle of Linked List | Next Greater Element | [ ] |
 | 19 Nov | Jump Game - I | Heapify Algorithm | [ ] |
 | 20 Nov | Power Set | Level Order Traversal | [ ] |

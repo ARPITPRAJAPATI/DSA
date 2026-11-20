@@ -38,9 +38,9 @@ The objective is not just to complete questions, but to:
 |---|---|---|---|
 | 16 Nov | Majority Element-I | Two Sum | [done] |
 | 17 Nov | Find peak element | Longest Substring Without Repeating Characters | [done] |
-| 18 Nov | Find Middle of Linked List | Next Greater Element | [ ] |
-| 19 Nov | Jump Game - I | Heapify Algorithm | [ ] |
-| 20 Nov | Power Set | Level Order Traversal | [ ] |
+| 18 Nov | Find Middle of Linked List | Next Greater Element | [done] |
+| 19 Nov | Jump Game - I | Heapify Algorithm | [done] |
+| 20 Nov | Power Set | Level Order Traversal | [done] |
 | 21 Nov | Insert a given node in BST | Flood fill algorithm | [ ] |
 | 22 Nov | Frog jump with K distances | Trie Implementation and Advanced Operations | [ ] |
 | 23 Nov | Kadane's Algorithm | Find the intersection point of Y LL | [ ] |
